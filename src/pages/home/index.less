@@ -1,0 +1,40 @@
+.home-container {
+  padding: 0 48px;
+  .card-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 240px);
+    justify-content: space-between;
+    grid-gap: 20px;
+
+    .card-item {
+      width: 240px;
+      margin: 20px;
+      .ant-card-cover {
+        overflow: hidden;
+        img {
+          transition: transform 1s linear;
+          &:hover {
+            transform: scale(1.2);
+          }
+        }
+      }
+    }
+  }
+  .recommend-wrapper {
+    display: flex;
+    .slogan {
+      width: 50%;
+      padding-top: 80px;
+      text-align: center;
+      font-size: 40px;
+      font-weight: bold;
+    }
+    .carousel-wrapper {
+      padding: 50px;
+      width: 50%;
+      .carousel-item {
+        width: 300px;
+      }
+    }
+  }
+}
