@@ -1,0 +1,26 @@
+{
+     "name": "0xJessica",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "image": "https://ipfs.io/ipfs/QmYadFKVgcVtuTGBA6KvuVcn4iP58ds5LkYGGiRWHwwmWm",
+     "attributes": [
+       {
+		 "display_type": "date", 
+         "trait_type": "birth_cert", 
+         "value": "https://ipfs.io/ipfs/QmefmjSguNLuwXNiYtp7DNENYWbsSd4i5rKtxJbNEx7LFQ"
+       },
+       {
+         "display_type": "date", 
+         "trait_type": "birthday", 
+         "value": 1546360800
+       },{
+         "display_type": "meta", 
+		 "trait_type": "2d", 
+         "value": "https://ipfs.io/ipfs/QmYadFKVgcVtuTGBA6KvuVcn4iP58ds5LkYGGiRWHwwmWm"
+       },
+       {
+		 "display_type": "meta", 
+         "trait_type": "3d", 
+         "value": "https://ipfs.io/ipfs/QmPAPbhFz5x2CMmNsq9XbguucTtV5vM2znDtn3x1rYyWh4"
+       }
+     ]
+}

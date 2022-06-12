@@ -1,0 +1,23 @@
+{
+    "@context": [
+      "https://www.w3.org/2018/credentials/v1"
+    ],
+    "id": "8faba747-8899-4dd6-8925-be061936a90d",
+    "issuanceDate": 1652258590771,
+    "expirationDate": 1668154143000,
+    "credentialSubject": {
+      "id": "did:wx::85766e9e-abbc-4c00-b5f4-0ee9ebf6d90a",
+      "shortDescription": "string",
+      "longDescription": "string",
+      "type": "string",
+      "data": "{ \"owner\":\"did:metrix:aaaaaaaa-452f-4440-aabb-6ba8b47cd8ef\",\"creator\":\"did:metrix:bbbbbbbb-452f-4440-aabb-6ba8b47cd8ef\",\"metaman\":\"did:metrix:cccccccc-452f-4440-aabb-6ba8b47cd8ef\" }"
+    },
+    "revocation": {
+      "type": "SimpleRevocationListV1"
+    },
+    "proof": {
+      "encryptType": "Secp256k1",
+      "creator": "did:pnid:cid:7f8ca8982f6cc6e8ea087bd9457ab8024bd2/1",
+      "signatureValue": "8fdfe8dcfa3f306edb088050bd1ed3fe6e392d150f2fbf1a55d96a02090d273c29fbd25874e1fd5c7b50b84a3fb05698dbb56ee082c0f5ae3447f17e0a248a1be9a4d47ae5aae688da7755e8901a4d7364da6fdc91e7c188d8f5711ebfd796e8e04dea591276022c91323b1a05acada9d786751385f5087d47fd042fa4531b25f56456"
+    }
+  }
